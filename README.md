@@ -14,5 +14,5 @@
  * Q&A Maker(https://www.qnamaker.ai/)   
  
  
- ## 실행하기   
+ ## <a href="https://webchat.botframework.com/embed/byeoldajul-botv6?s=KGivbaz35lI.aJKSdXumEjII8FPBAGCBrloFQwBNkRhP-IPtGlnWEEs">접속하기</a>   
  

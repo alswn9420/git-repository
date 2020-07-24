@@ -1,6 +1,5 @@
-#1. 별다줄 챗봇(Byeoldajul_chatbot)**
-  1.
-  
-2.
-3.
+#별다줄 챗봇(Byeoldajul_chatbot)
+  *아이템 
+  *2.
+  *3.
   

@@ -1,0 +1,18 @@
+{
+    "name": "별다줄봇",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "c02432eb-b245-4e4a-a0dc-9df685fdc804",
+            "appPassword": "ICt5M[2Z6**u:&4TDUP[H8s&!MXjkVq",
+            "endpoint": "https://capstone-qna-bot.azurewebsites.net/api/messages",
+            "id": "7b173b60-3aaf-11eb-9826-f3df29df936b",
+            "name": "https://capstone-qna-bot.azurewebsites.net/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "D:\\git repository\\별다줄봇.bot",
+    "overrides": null
+}
